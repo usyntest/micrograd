@@ -1,0 +1,6 @@
+# virtual environments
+venv
+env
+.venv
+.env
+.ipynb_checkpoints
